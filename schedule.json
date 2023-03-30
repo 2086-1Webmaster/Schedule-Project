@@ -1,0 +1,46 @@
+{
+    "schedule": [
+        {
+            "class_name": "AP Chemistry",
+            "teacher_name": "Hinds, Craig",
+            "room_number": "G205",
+            "days": ["A", "B", "C", "E", "F"]
+        },
+        {
+            "class_name": "Physical Ed 12 Lab",
+            "teacher_name": "Hastings, Nicolyn",
+            "room_number": "GYM 6",
+            "days": ["A", "D", "E", "F"]
+        },
+        {
+            "class_name": "Honors NJIT Web design",
+            "teacher_name": "Herbet, Megan",
+            "room_number": "B114",
+            "days": ["A", "C", "D", "E", "G"]
+        },
+        {
+            "class_name": "Honors Anatomy and Physiology",
+            "teacher_name": "Ollinger, Edward",
+            "room_number": "C204",
+            "days": ["B", "C", "D", "F", "G"]
+        },
+        {
+            "class_name": "AP Calculus AB",
+            "teacher_name": "Drummond, Philip",
+            "room_number": "D219",
+            "days": ["A", "B", "D", "E", "G"]
+        },
+        {
+            "class_name": "AP Psychology",
+            "teacher_name": "Torres, Frank",
+            "room_number": "E115",
+            "days": ["A", "C", "D", "F", "G"]
+        },
+        {
+            "class_name": "AP English Lit & Comp",
+            "teacher_name": "DiGiuseppe, Joseph",
+            "room_number": "C100",
+            "days": ["B", "C", "E", "F", "G"]
+        }
+    ]
+}
